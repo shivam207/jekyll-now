@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Fourth year undergaduate student pursuing Integrated M.Sc. degree in Mathematics and Computing. 
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[contact](mailto:agarwal.shivam207@gmail.com)
